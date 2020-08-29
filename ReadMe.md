@@ -1,3 +1,5 @@
+Link to the Competition: https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/#LeaderBoard
+
 Model Details :
 
 * Architecture : Bert
