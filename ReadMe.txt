@@ -1,5 +1,7 @@
 Model Details :
-* Architecture : Bert
+    
+    Architecture : Bert
+  
 Model Name: scibert_scivocab_uncased, bert base pre-trained on research papers from Semantic Scholar with a custom vocabulary (huggingface link: https://bit.ly/34syFQ1)
 Final solution an ensemble of three models:
 Model 1: 
